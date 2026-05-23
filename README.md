@@ -1,4 +1,5 @@
 # Karnata Bandipur (Kannada + Latin Typeface)
+<img width="1108" height="638" alt="image" src="https://github.com/user-attachments/assets/17d356d7-b069-44e6-87c3-b4f34bf50470" />
 
 Karnata Bandipur is a Kannada + Latin display typeface derived from the original Bandipur project. This version focuses on improved font engineering, Kannada shaping behavior, and production readiness.
 
